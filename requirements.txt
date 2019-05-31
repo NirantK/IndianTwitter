@@ -1,0 +1,6 @@
+wordcloud
+emoji
+spacy
+numpy
+matplotlib
+pandas

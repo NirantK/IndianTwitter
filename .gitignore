@@ -1,0 +1,7 @@
+vocabs/.DS_Store
+.DS_Store
+data/*
+metrotwitter/*
+not_use/*
+.ipynb_checkpoints/*
+__pycache__
