@@ -1,23 +1,15 @@
-# MetroTwitter
+# Indian Twitter
+
+This is an unofficial fork of the MetroTwitter.
+
+About the MetroTwitter project:
+- [code](https://github.com/chiphuyen/MetroTwitter) by @chiphuyen 
+- blog: 
+[MetroTwitter - What Twitter reveals about the differences between cities and the monoculture of the Bay Area](https://huyenchip.com/2019/05/28/metrotwitter.html)
+- visualizations: download [here](https://drive.google.com/drive/folders/1B3rQeBhB50kdOCyNtwRhU26jO-F7VJAo?usp=sharing).
+
 
 Analysis of Twitter data in 13 English-speaking metropolitan areas (96K users and 180M tweets).
-
-- US Cities (9): Atlanta, Austin, Bay Area, Boston, Chicago, Washington DC, LA, NYC, Seattle
-- Australian Cities (2): Melbourne, Sydney
-- Canadian Cities (1): Toronto
-- UK Cities (1): London
-
-
-Plus 223K users that aren't in these areas which are collectively put in 'Other'.
-
-For more information, see the blog post:
-
-[MetroTwitter - What Twitter reveals about the differences between cities and the monoculture of the Bay Area](https://huyenchip.com/2019/05/28/metrotwitter.html)
-
-The blog post only contains a small, selected number of visualizations. For more visualization, download [here](https://drive.google.com/drive/folders/1B3rQeBhB50kdOCyNtwRhU26jO-F7VJAo?usp=sharing).
-
-I won't be distributing the data for this project to protect users' privacy. If you'd like to discuss the data, contact me through my website [huyenchip.com](https://huyenchip.com).
-
 
 ## How people in different cities describe themselves
 In the ``metrotwitter_visualization`` folder, you can find word clouds that represent the most popular words in bios in each city. The ``indi`` folder visualizes each city independently. The ``duo`` folder visualizes the difference between two cities.
@@ -55,5 +47,3 @@ Also in the ``keywords`` Jupyter notebook, there's the method ``rank_keywords_in
 ## Compare two keywords
 Just to get a sense of how popular one vs another.
 <img src="images/iphone_android.png" width=700 align='middle'></img>
-
-
